@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cc188885907be8448a804b3ea7eb13e, type: 3}
+  m_Name: BastardSword
+  m_EditorClassIdentifier: 
+  name: Bastard Sword
+  icon: {fileID: 0}
+  quality: 2
+  quantity: 0
+  mass: 0
+  ResBonus: 0
+  StrBonus: 0
+  IntBonus: 0
+  DexBonus: 0
+  ResPercentBonus: 0
+  StrPercentBonus: 0
+  IntPercentBonus: 0
+  DexPercentBonus: 0
+  EquipType: 0
